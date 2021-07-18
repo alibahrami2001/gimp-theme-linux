@@ -11,7 +11,7 @@
   
  #
 <img src="https://github.com/sh4de-c4t/gimp-theme-linux/blob/main/screen/gimp.png" />
-#
+
 </div>
  install :<br>
  open terminal <br>
