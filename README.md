@@ -1,0 +1,2 @@
+# gimp-theme-linux
+CUSTOMIZE YOUR GIMP USER INTERFACE
