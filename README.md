@@ -1,4 +1,4 @@
 # gimp-theme-linux
 # klondak-theme-2021
-CUSTOMIZE YOUR GIMP USER INTERFACE
--------------------------------------------------------------------------------------
+  CUSTOMIZE YOUR GIMP USER INTERFACE
+
