@@ -19,4 +19,7 @@
  cd gimp-theme-linux  <br>
  chmod 700 install.sh  <br>
  sudo ./install <br>
- 
+</div>
+ set theme :  <br>
+open gimp --> Edit > preferences > interface > theme > select purpel <br>
+<img src="https://github.com/sh4de-c4t/gimp-theme-linux/blob/main/screen/Screenshot%20from%202021-07-19%2014-55-06.png" />  <br>
